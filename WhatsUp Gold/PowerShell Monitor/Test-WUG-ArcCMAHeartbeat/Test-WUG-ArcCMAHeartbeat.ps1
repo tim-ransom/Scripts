@@ -13,7 +13,7 @@
     Website:        https://tim-ransom.github.io/
 
 .LINK
-    https://github.com/Encore-Infra/Scripts/blob/main/WhatsUpGold/PowerShell%20Monitor/Test-WUG-ArcCMAHeartbeat/Test-WUG-ArcCMAHeartbeat.ps1
+    https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-ArcCMAHeartbeat/Test-WUG-ArcCMAHeartbeat.ps1
 #>
 
 #Get device information

@@ -22,4 +22,4 @@
 
 ## CHANGELOG
 
-[Link](https://github.com/tim-ransom/Scripts/blob/main/WhatsUpGold/PowerShell%20Monitor/Test-WUG-ArcCMAVersion/CHANGELOG.MD)
+[Link](https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-ArcCMAVersion/CHANGELOG.MD)
