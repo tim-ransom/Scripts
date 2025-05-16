@@ -1,0 +1,1 @@
+# Use this folder to store scripts related to WhatsUp Gold.
