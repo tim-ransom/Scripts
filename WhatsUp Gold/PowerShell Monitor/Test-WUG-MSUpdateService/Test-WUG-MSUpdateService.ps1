@@ -13,7 +13,7 @@
     Website:        https://tim-ransom.github.io/
 
 .LINK
-    https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-MSUpdateService/Test-WUG-MSUpdateService.ps1
+    https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-MSUpdateService
 
 #>
 

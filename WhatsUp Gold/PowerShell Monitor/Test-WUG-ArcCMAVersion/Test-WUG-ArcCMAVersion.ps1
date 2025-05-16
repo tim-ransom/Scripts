@@ -13,7 +13,8 @@
     Website:        https://tim-ransom.github.io/
 
 .LINK
-    https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-ArcCMAVersion/Test-WUG-ArcCMAVersion.ps1
+    https://github.com/tim-ransom/Scripts/blob/main/WhatsUp%20Gold/PowerShell%20Monitor/Test-WUG-ArcCMAVersion
+
 #>
 
 #Get device information
